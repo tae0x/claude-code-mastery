@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Additional Instructions
+
+- git workflow @docs/git-instructions.md
+
 ## 언어 및 커뮤니케이션 규칙
 
 - **기본 응답 언어**: 한국어
