@@ -8,5 +8,6 @@
     "defaultMode": "plan",
     "additionalDirectories": []
   },
-  "outputStyle": "Explanatory"
+  "outputStyle": "Explanatory",
+  "language": "korean"
 }
