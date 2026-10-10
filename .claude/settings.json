@@ -9,5 +9,6 @@
     "additionalDirectories": []
   },
   "outputStyle": "Explanatory",
-  "language": "korean"
+  "language": "korean",
+  "plansDirectory": ".claude/plan/"
 }
